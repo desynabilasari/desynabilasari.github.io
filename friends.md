@@ -14,7 +14,7 @@ Berikut Teman-teman saya di kelas:
 7. [Jihan Maulida](https://jihanmaulidia09.github.io/)
 8. [Muhammad Alfisyahrin Muzhaffar](https://alfisyahrin-26.github.io/)
 9. [Muhammad Alif Arrayyan](https://alifarrayyan29.github.io/)
-10. [Muhammad Aziz](https://mhmd-aziz.github.io/)
+10. [Muhammad Aziz](https://mhmmd-aziz.github.io/)
 11. [Muhammad Fauzan](https://muhammadfauzan61.github.io/)
 12. [Muhammad Fikri Sodri](https://mfikrisodri.github.io/)
 13. [Muhammad Hawari](https://hawari-95.github.io/)
