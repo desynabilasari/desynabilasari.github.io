@@ -22,7 +22,7 @@ Berikut Teman-teman saya di kelas:
 15. [Nailan Zakia](https://nailanzakia.github.io/)
 16. [Rahmat Hidayat]()
 17. [Ridho Ryan Ghifari](https://ridhoryanghifari.github.io/)
-18. [Rizki Al Fatah](https://riskialfatah.github.io/)
+18. [Rizki Al Fatah](https://riskialfattah.github.io/)
 19. [Salwa](https://salwaiska027.github.io/)
 20. [Siti Azzahra](https://sitiazzahraaa.github.io/)
 21. [Siti Hajar](https://sitihajar01.github.io/)
